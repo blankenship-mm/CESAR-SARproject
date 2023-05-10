@@ -1,0 +1,9 @@
+This folder contains 2 programs:
+1. WoOController (folder) - Arduino background program
+2. WoOController - MATLAB GUI
+
+Before starting, the Arduino program needs to be uploaded unto the Arduino.
+
+To use the GUI, open the MATLAB file go into Code View and change the writecell location to match your file directory. This will allow the GUI to create and save an Excel document to your computer with time stamps of each action taken by the SAR. 
+
+Once that is fixed, you are ready to go. 
